@@ -1,10 +1,10 @@
 {
     "grimoirelab": {
       "meta": {
-        "title": "GrimoireLab"
+        "title": "Cardano-Node"
       },
       "git": [
-          "https://github.com/chaoss/grimoirelab.git"
+          "https://github.com/IntersectMBO/cardano-node.git"
         ]
     }
   }
