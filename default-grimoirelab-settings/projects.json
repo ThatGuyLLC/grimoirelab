@@ -1,10 +1,330 @@
 {
-    "grimoirelab": {
+    "Cardano-Node": {
       "meta": {
         "title": "Cardano-Node"
       },
       "git": [
           "https://github.com/IntersectMBO/cardano-node.git"
+        ]
+    }
+  },
+{
+    "cardano-ledger": {
+      "meta": {
+        "title": "cardano-ledger"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardano-ledger.git"
+        ]
+    }
+  },
+{
+    "cardano-haskell-packages": {
+      "meta": {
+        "title": "cardano-haskell-packages"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardano-haskell-packages.git"
+        ]
+    }
+  },
+{
+    "ouroboros-consensus": {
+      "meta": {
+        "title": "ouroboros-consensus"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/ouroboros-consensus.git"
+        ]
+    }
+  },
+{
+    "formal-ledger-specifications": {
+      "meta": {
+        "title": "formal-ledger-specifications"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/formal-ledger-specifications.git"
+        ]
+    }
+  },
+{
+    "cardano-node-tests": {
+      "meta": {
+        "title": "cardano-node-tests"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardano-node-tests.git"
+        ]
+    }
+  },
+{
+    "govtool": {
+      "meta": {
+        "title": "govtool"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/govtool.git"
+        ]
+    }
+  },
+{
+    "plutus": {
+      "meta": {
+        "title": "plutus"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/plutus.git"
+        ]
+    }
+  },
+{
+    "cardano-api": {
+      "meta": {
+        "title": "cardano-api"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardano-api.git"
+        ]
+    }
+  },
+{
+    "ouroboros-network": {
+      "meta": {
+        "title": "ouroboros-network"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/ouroboros-network.git"
+        ]
+    }
+  },
+{
+    "cardano-updates": {
+      "meta": {
+        "title": "cardano-updates"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardano-updates.git"
+        ]
+    }
+  },
+{
+    "cardano-cli": {
+      "meta": {
+        "title": "cardano-cli"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardano-cli.git"
+        ]
+    }
+  },
+{
+    "cardano-db-sync ": {
+      "meta": {
+        "title": "cardano-db-sync "
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardano-db-sync .git"
+        ]
+    }
+  },
+{
+    "cardano-base": {
+      "meta": {
+        "title": "cardano-base"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardano-base.git"
+        ]
+    }
+  },
+{
+    "cardano-test-plans": {
+      "meta": {
+        "title": "cardano-test-plans"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardano-test-plans.git"
+        ]
+    }
+  },
+{
+    "nami": {
+      "meta": {
+        "title": "nami"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/nami.git"
+        ]
+    }
+  },
+{
+    "cardano-world": {
+      "meta": {
+        "title": "cardano-world"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardano-world.git"
+        ]
+    }
+  },
+{
+    "cardano-addresses": {
+      "meta": {
+        "title": "cardano-addresses"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardano-addresses.git"
+        ]
+    }
+  },
+{
+    "ouroboros-consensus": {
+      "meta": {
+        "title": "ouroboros-consensus"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/ouroboros-consensus.git"
+        ]
+    }
+  },
+{
+    "plutus-apps": {
+      "meta": {
+        "title": "plutus-apps"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/plutus-apps.git"
+        ]
+    }
+  },
+{
+    "ouroboros-consensus": {
+      "meta": {
+        "title": "ouroboros-consensus"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/ouroboros-consensus.git"
+        ]
+    }
+  },
+{
+    "Win32-network": {
+      "meta": {
+        "title": "Win32-network"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/Win32-network.git"
+        ]
+    }
+  },
+{
+    "cardaminal": {
+      "meta": {
+        "title": "cardaminal"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardaminal.git"
+        ]
+    }
+  },
+{
+    "cardaminal": {
+      "meta": {
+        "title": "cardaminal"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardaminal.git"
+        ]
+    }
+  },
+{
+    "essential-cardano": {
+      "meta": {
+        "title": "essential-cardano"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/essential-cardano.git"
+        ]
+    }
+  },
+{
+    "cardano-coin-selection": {
+      "meta": {
+        "title": "cardano-coin-selection"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardano-coin-selection.git"
+        ]
+    }
+  },
+{
+    "cardano-launcher": {
+      "meta": {
+        "title": "cardano-launcher"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardano-launcher.git"
+        ]
+    }
+  },
+{
+    "cardaminal": {
+      "meta": {
+        "title": "cardaminal"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardaminal.git"
+        ]
+    }
+  },
+{
+    "bech32": {
+      "meta": {
+        "title": "bech32"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/bech32.git"
+        ]
+    }
+  },
+{
+    "cardano-transactions": {
+      "meta": {
+        "title": "cardano-transactions"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardano-transactions.git"
+        ]
+    }
+  },
+{
+    "cardano-prelude": {
+      "meta": {
+        "title": "cardano-prelude"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardano-prelude.git"
+        ]
+    }
+  },
+{
+    "cardano-crypto": {
+      "meta": {
+        "title": "cardano-crypto"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/cardano-crypto.git"
+        ]
+    }
+  },
+{
+    "libsodium": {
+      "meta": {
+        "title": "libsodium"
+      },
+      "git": [
+          "https://github.com/IntersectMBO/libsodium.git"
         ]
     }
   }
