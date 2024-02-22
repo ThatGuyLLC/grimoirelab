@@ -5,6 +5,12 @@
         ],
         "github": [
             "https://github.com/intersectmbo/cardano-node"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardano-node"
+        ],
+	"github:issue": [
+            "https://github.com/intersectmbo/cardano-node"
         ]
     },
     "cardano-base": {
@@ -12,6 +18,12 @@
             "https://github.com/intersectmbo/cardano-base"
         ],
         "github": [
+            "https://github.com/intersectmbo/cardano-base"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardano-base"
+        ],
+	"github:issue": [
             "https://github.com/intersectmbo/cardano-base"
         ]
     },
@@ -21,6 +33,12 @@
         ],
         "github": [
             "https://github.com/intersectmbo/cardano-crypto"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardano-crypto"
+        ],
+	"github:issue": [
+            "https://github.com/intersectmbo/cardano-crypto"
         ]
     },
     "cardano-db-sync": {
@@ -28,6 +46,12 @@
             "https://github.com/intersectmbo/cardano-db-sync"
         ],
         "github": [
+            "https://github.com/intersectmbo/cardano-db-sync"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardano-db-sync"
+        ],
+	"github:issue": [
             "https://github.com/intersectmbo/cardano-db-sync"
         ]
     },
@@ -37,6 +61,12 @@
         ],
         "github": [
             "https://github.com/intersectmbo/cardano-ledger"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardano-ledger"
+        ],
+	"github:issue": [
+            "https://github.com/intersectmbo/cardano-ledger"
         ]
     },
     "cardano-node-tests": {
@@ -44,6 +74,12 @@
             "https://github.com/intersectmbo/cardano-node-tests"
         ],
         "github": [
+            "https://github.com/intersectmbo/cardano-node-tests"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardano-node-tests"
+        ],
+	"github:issue": [
             "https://github.com/intersectmbo/cardano-node-tests"
         ]
     },
@@ -53,6 +89,12 @@
         ],
         "github": [
             "https://github.com/intersectmbo/cardano-prelude"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardano-prelude"
+        ],
+	"github:issue": [
+            "https://github.com/intersectmbo/cardano-prelude"
         ]
     },
     "cardano-updates": {
@@ -60,6 +102,12 @@
             "https://github.com/intersectmbo/cardano-updates"
         ],
         "github": [
+            "https://github.com/intersectmbo/cardano-updates"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardano-updates"
+        ],
+	"github:issue": [
             "https://github.com/intersectmbo/cardano-updates"
         ]
     },
@@ -69,6 +117,12 @@
         ],
         "github": [
             "https://github.com/intersectmbo/cardano-world"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardano-world"
+        ],
+	"github:issue": [
+            "https://github.com/intersectmbo/cardano-world"
         ]
     },
     "cardano-cli": {
@@ -76,6 +130,12 @@
             "https://github.com/intersectmbo/cardano-cli"
         ],
         "github": [
+            "https://github.com/intersectmbo/cardano-cli"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardano-cli"
+        ],
+	"github:issue": [
             "https://github.com/intersectmbo/cardano-cli"
         ]
     },
@@ -85,6 +145,12 @@
         ],
         "github": [
             "https://github.com/intersectmbo/cardano-api"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardano-api"
+        ],
+	"github:issue": [
+            "https://github.com/intersectmbo/cardano-api"
         ]
     },
     "cardano-addresses": {
@@ -92,6 +158,12 @@
             "https://github.com/intersectmbo/cardano-addresses"
         ],
         "github": [
+            "https://github.com/intersectmbo/cardano-addresses"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardano-addresses"
+        ],
+	"github:issue": [
             "https://github.com/intersectmbo/cardano-addresses"
         ]
     },
@@ -101,6 +173,12 @@
         ],
         "github": [
             "https://github.com/intersectmbo/cardano-coin-selection"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardano-coin-selection"
+        ],
+	"github:issue": [
+            "https://github.com/intersectmbo/cardano-coin-selection"
         ]
     },
     "cardano-launcher": {
@@ -108,6 +186,12 @@
             "https://github.com/intersectmbo/cardano-launcher"
         ],
         "github": [
+            "https://github.com/intersectmbo/cardano-launcher"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardano-launcher"
+        ],
+	"github:issue": [
             "https://github.com/intersectmbo/cardano-launcher"
         ]
     },
@@ -117,6 +201,12 @@
         ],
         "github": [
             "https://github.com/intersectmbo/cardano-transactions"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardano-transactions"
+        ],
+	"github:issue": [
+            "https://github.com/intersectmbo/cardano-transactions"
         ]
     },
     "cardano-test-plans": {
@@ -124,6 +214,12 @@
             "https://github.com/intersectmbo/cardano-test-plans"
         ],
         "github": [
+            "https://github.com/intersectmbo/cardano-test-plans"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardano-test-plans"
+        ],
+	"github:issue": [
             "https://github.com/intersectmbo/cardano-test-plans"
         ]
     },
@@ -133,6 +229,12 @@
         ],
         "github": [
             "https://github.com/intersectmbo/formal-ledger-specifications"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/formal-ledger-specifications"
+        ],
+	"github:issue": [
+            "https://github.com/intersectmbo/formal-ledger-specifications"
         ]
     },
     "libsodium": {
@@ -140,6 +242,12 @@
             "https://github.com/intersectmbo/libsodium"
         ],
         "github": [
+            "https://github.com/intersectmbo/libsodium"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/libsodium"
+        ],
+	"github:issue": [
             "https://github.com/intersectmbo/libsodium"
         ]
     },
@@ -149,6 +257,12 @@
         ],
         "github": [
             "https://github.com/intersectmbo/ouroboros-network"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/ouroboros-network"
+        ],
+	"github:issue": [
+            "https://github.com/intersectmbo/ouroboros-network"
         ]
     },
     "ouroboros-consensus": {
@@ -156,6 +270,12 @@
             "https://github.com/intersectmbo/ouroboros-consensus"
         ],
         "github": [
+            "https://github.com/intersectmbo/ouroboros-consensus"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/ouroboros-consensus"
+        ],
+	"github:issue": [
             "https://github.com/intersectmbo/ouroboros-consensus"
         ]
     },
@@ -165,6 +285,12 @@
         ],
         "github": [
             "https://github.com/intersectmbo/Win32-network"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/win32-network"
+        ],
+	"github:issue": [
+            "https://github.com/intersectmbo/win32-network"
         ]
     },
     "essential-cardano": {
@@ -172,6 +298,12 @@
             "https://github.com/intersectmbo/essential-cardano"
         ],
         "github": [
+            "https://github.com/intersectmbo/essential-cardano"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/essential-cardano"
+        ],
+	"github:issue": [
             "https://github.com/intersectmbo/essential-cardano"
         ]
     },
@@ -181,6 +313,12 @@
         ],
         "github": [
             "https://github.com/intersectmbo/cardano-haskell-package-repo"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardano-haskell-package-repo"
+        ],
+	"github:issue": [
+            "https://github.com/intersectmbo/cardano-haskell-package-repo"
         ]
     },
     "plutus": {
@@ -188,6 +326,12 @@
             "https://github.com/intersectmbo/plutus"
         ],
         "github": [
+            "https://github.com/intersectmbo/plutus"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/plutus"
+        ],
+	"github:issue": [
             "https://github.com/intersectmbo/plutus"
         ]
     },
@@ -197,6 +341,12 @@
         ],
         "github": [
             "https://github.com/intersectmbo/plutus-apps"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/plutus-apps"
+        ],
+	"github:issue": [
+            "https://github.com/intersectmbo/plutus-apps"
         ]
     },
     "bech32": {
@@ -204,6 +354,12 @@
             "https://github.com/intersectmbo/bech32"
         ],
         "github": [
+            "https://github.com/intersectmbo/bech32"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/bech32"
+        ],
+	"github:issue": [
             "https://github.com/intersectmbo/bech32"
         ]
     },
@@ -213,6 +369,12 @@
         ],
         "github": [
             "https://github.com/intersectmbo/cardaminal"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/cardaminal"
+        ],
+	"github:issue": [
+            "https://github.com/intersectmbo/cardaminal"
         ]
     },
     "govtool": {
@@ -220,6 +382,12 @@
             "https://github.com/intersectmbo/govtool"
         ],
         "github": [
+            "https://github.com/intersectmbo/govtool"
+        ],
+	"github:pull": [
+            "https://github.com/intersectmbo/govtool"
+        ],
+	"github:issue": [
             "https://github.com/intersectmbo/govtool"
         ]
     }
